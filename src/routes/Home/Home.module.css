@@ -1,0 +1,8 @@
+.icone{
+    width: 100%;
+}
+.icone img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}

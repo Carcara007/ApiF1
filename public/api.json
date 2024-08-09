@@ -1,0 +1,120 @@
+{
+  "gpData": {
+    "Canada": [
+      {
+        "id": 1,
+        "img": "https://a.espncdn.com/combiner/i?img=/i/headshots/rpm/players/full/5579.png&w=350&h=254",
+        "name": "Lando Norris",
+        "nationality": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/255px-Flag_of_the_United_Kingdom_%283-5%29.svg.png",
+        "team": "McLaren",
+        "time": "+3.879s",
+        "points": 18
+      },
+      {
+        "id": 2,
+        "img": "https://a.espncdn.com/combiner/i?img=/i/headshots/rpm/players/full/4665.png&w=350&h=254",
+        "name": "Max Verstappen",
+        "nationality": "https://static.significados.com.br/foto/holanda.jpg",
+        "team": "Red Bull Racing",
+        "time": "1:45:47s",
+        "points": 25
+      },
+      {
+        "id": 3,
+        "img": "https://images.motorsportstats.com/large/driverProfilePicture/driverProfilePicture-8f039358-b9b5-4bb3-b1cf-b4e60cd1a67a.jpg",
+        "name": "George Russell",
+        "nationality": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Flag_of_Australia.svg/1200px-Flag_of_Australia.svg.png",
+        "team": "Mercedes",
+        "time": "+4.915s",
+        "points": 15
+      }
+    ],
+    "Monaco": [
+      {
+        "id": 4,
+        "img": "https://a.espncdn.com/combiner/i?img=/i/headshots/rpm/players/full/5498.png&w=350&h=254",
+        "name": "Charles Leclerc",
+        "nationality": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Flag_of_Monaco.svg",
+        "team": "Ferrari",
+        "time": "2:23:15s",
+        "points": 25
+      },
+      {
+        "id": 5,
+        "img": "https://a.espncdn.com/combiner/i?img=/i/headshots/rpm/players/full/5752.png&w=350&h=254",
+        "name": "Oscar Piastri",
+        "nationality": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Flag_of_Australia.svg/1200px-Flag_of_Australia.svg.png",
+        "team": "McLaren",
+        "time": "+7.152s",
+        "points": 18
+      },
+      {
+        "id": 6,
+        "img": "https://cdn.racingnews365.com/Riders/Sainz/_570x570_crop_center-center_none/f1_2024_cs_fer_lg.png?v=1708703934",
+        "name": "Carlos Sainz Jr",
+        "nationality": "https://static.mundoeducacao.uol.com.br/mundoeducacao/2022/01/bandeira-da-espanha.jpg",
+        "team": "Ferrari",
+        "time": "+7.585s",
+        "points": 15
+      }
+    ],
+    "Miami": [
+      {
+        "id": 7,
+        "img": "https://a.espncdn.com/combiner/i?img=/i/headshots/rpm/players/full/5498.png&w=350&h=254",
+        "name": "Charles Leclerc",
+        "nationality": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Flag_of_Monaco.svg",
+        "team": "Ferrari",
+        "time": "+9.920s",
+        "points": 15
+      },
+      {
+        "id": 8,
+        "img": "https://a.espncdn.com/combiner/i?img=/i/headshots/rpm/players/full/4665.png&w=350&h=254",
+        "name": "Max Verstappen",
+        "nationality": "https://static.significados.com.br/foto/holanda.jpg",
+        "team": "Red Bull Racing",
+        "time": "+7.612s",
+        "points": 218
+      },
+      {
+        "id": 9,
+        "img": "https://a.espncdn.com/combiner/i?img=/i/headshots/rpm/players/full/5579.png&w=350&h=254",
+        "name": "Lando Norris",
+        "nationality": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/255px-Flag_of_the_United_Kingdom_%283-5%29.svg.png",
+        "team": "McLaren",
+        "time": "1:30:49s",
+        "points": 25
+      }
+    ],
+    "China": [
+      {
+        "id": 10,
+        "img": "https://a.espncdn.com/combiner/i?img=/i/headshots/rpm/players/full/4472.png&w=350&h=254",
+        "name": "Sergio Pérez",
+        "nationality": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/280px-Flag_of_Mexico.svg.png",
+        "team": "Red Bull Racing",
+        "time": "+19.160s",
+        "points": 15
+      },
+      {
+        "id": 11,
+        "img": "https://a.espncdn.com/combiner/i?img=/i/headshots/rpm/players/full/4665.png&w=350&h=254",
+        "name": "Max Verstappen",
+        "nationality": "https://static.significados.com.br/foto/holanda.jpg",
+        "team": "Red Bull Racing",
+        "time": "1:40:52s",
+        "points": 25
+      },
+      {
+        "id": 12,
+        "img": "https://a.espncdn.com/combiner/i?img=/i/headshots/rpm/players/full/5579.png&w=350&h=254",
+        "name": "Lando Norris",
+        "nationality": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/255px-Flag_of_the_United_Kingdom_%283-5%29.svg.png",
+        "team": "McLaren",
+        "time": "+13.773s",
+        "points": 18
+      }
+    ]
+  }
+}
